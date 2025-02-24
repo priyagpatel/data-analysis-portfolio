@@ -6,9 +6,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Projects
 
-....
+Amazon Stock Data 2025
 
-Goal:
+Goal: Analyze market trends
 
 Code:
 
