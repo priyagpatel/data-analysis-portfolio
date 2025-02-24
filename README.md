@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** To analyze and forecast stock price movements using historical data. This includes: Exploratory Data Analysis (EDA), Volatility Analysis, and key insights with plots. 
 
-**Data:** [(AMZN.csv)]
+**Data:** [Amazon Stock Data](https://github.com/priyagpatel/data-analysis-portfolio/blob/e583e568bdb32be442f27925fb5f715dc2dd7c96/AMZN.csv)
 
 **Code:**
 
