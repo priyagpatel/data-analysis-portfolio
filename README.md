@@ -8,11 +8,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 Amazon Stock Data 2025
 
-Goal: Analyze market trends
+Goal: To analyze and forecast stock price movements using historical data. 
+
+This includes: Exploratory Data Analysis (EDA), Volatility Analysis, and key insights with plots. 
 
 Code:
 
-Result:
+Result: Understanding Past Stock Behavior, Risk Analysis and Data-Driven Insights. 
 
 ## Education
 The University of North Carolina at Chapel Hill, Bachelor's degree in Mathematics, May 2023
