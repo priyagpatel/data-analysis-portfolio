@@ -12,9 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Data:** [Amazon Stock Data](https://github.com/priyagpatel/data-analysis-portfolio/blob/e583e568bdb32be442f27925fb5f715dc2dd7c96/AMZN.csv)
 
-**Code:**
+**Code:** [Amazon Stock Analysis.ipynb](https://github.com/priyagpatel/data-analysis-portfolio/blob/aa03b165d366c64bbe6c95b2a6fdb6a7e80ce9d9/Amazon%20Stock%20Analysis.ipynb)
 
-**Result:** Understood Past Stock Behavior, Risk Analysis, and Data-Driven Insights. 
+**Result:** Analyzed Past Stock Behavior, Risk Analysis, and Data-Driven Insights. 
 
 ## Education
 The University of North Carolina at Chapel Hill, Bachelor's degree in Mathematics, May 2023
