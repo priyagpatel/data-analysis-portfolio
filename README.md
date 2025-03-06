@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** 
 
-**Data:**[Walmart Sales Data](https://github.com/priyagpatel/data-analysis-portfolio/blob/2beb955c43a995d8e0c70745a59bc04d54e0d188/walmartsales.csv)
+**Data:** [Walmart Sales Data](https://github.com/priyagpatel/data-analysis-portfolio/blob/2beb955c43a995d8e0c70745a59bc04d54e0d188/walmartsales.csv)
 
 **Code:**
 
