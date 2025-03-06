@@ -16,6 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Result:** Analyzed Past Stock Behavior, Risk Analysis, and Data-Driven Insights. 
 
+
 ### Walmart Sales Analysis
 
 **Goal:** 
