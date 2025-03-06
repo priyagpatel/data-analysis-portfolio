@@ -16,6 +16,14 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Result:** Analyzed Past Stock Behavior, Risk Analysis, and Data-Driven Insights. 
 
+### Walmart Sales Analysis
+
+**Goal:** 
+
+**Data:**[Walmart Sales Data](https://github.com/priyagpatel/data-analysis-portfolio/blob/2beb955c43a995d8e0c70745a59bc04d54e0d188/walmartsales.csv)
+
+**Code:**
+
 ## Education
 The University of North Carolina at Chapel Hill, Bachelor's degree in Mathematics, May 2023
 
